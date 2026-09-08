@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://KUSHALITD.github.io/resources-z2mij4/sitemap.xml
